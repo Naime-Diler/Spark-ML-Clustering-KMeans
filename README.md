@@ -1,4 +1,4 @@
-**Spark Machine Learning - Clustering: K-Means**
+# **Spark Machine Learning - Clustering: K-Means**
 
 In diesem Projekt wird die Clustering-Methode K-Means auf einen Churn-Datensatz angewendet, um natürliche Gruppierungen der Daten zu identifizieren. K-Means ist ein beliebter Algorithmus des unüberwachten Lernens, bei dem keine Zielvariable vorgegeben ist. Die wesentlichen Schritte des Projekts sind:
 
